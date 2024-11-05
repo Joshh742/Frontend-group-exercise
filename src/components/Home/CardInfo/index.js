@@ -1,6 +1,6 @@
-import Evolution from "../Evolution";
-import TypeEffect from "../TypeEffect";
-import Logo from "../Logo";
+import Evolution from "./Evolution";
+import TypeEffect from "./TypeEffect";
+import Logo from "./Logo";
 const CardInfo = () => {
   return (
     <div>
